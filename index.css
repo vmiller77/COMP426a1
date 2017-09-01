@@ -40,3 +40,10 @@ body {
   font-size: 40px;
   text-align: center;
 }
+
+.disclosure p{
+  font-style: italic;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
