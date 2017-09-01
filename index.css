@@ -1,3 +1,15 @@
+a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  padding-top: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 30px;
+  width:25%;
+  height: 60px;
+}
+
 .topnav a:hover {
   background-color: #ddd;
   color: black;
@@ -7,12 +19,24 @@
     color: white;
 }
 h1 {
-  color: "white";
+  width: 100%;
+  text-align: center;
+  color: pink;
 }
 body {
  background-color: blue;
  color: #FFFFFF;
 }
-a{
-  color: pink;
+
+.image {
+  text-align: center;
+  color: black;
+   background-image: url("header.jpg");
+   background-size: contain;
+   height: 200px;
+}
+
+.header p{
+  font-size: 40px;
+  text-align: center;
 }
