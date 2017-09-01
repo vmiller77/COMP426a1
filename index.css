@@ -5,7 +5,7 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20;
 }
 
 .topnav a:hover {
@@ -16,13 +16,9 @@
     background-color: #4CAF50;
     color: white;
 }
-
 h1 {
   color: "white";
 }
-
-
-/* myStyle.css */
 body {
  background-color: "blue";
  color: #FFFFFF;
